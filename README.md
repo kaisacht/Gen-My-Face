@@ -1,1 +1,1 @@
-Tạo data tại thư mục Vule mỗi thư mục cùng nhãn sẽ cùng folder ví cụ các data có nhãn là Data sẽ có tên thư mục cha là Data. Kết quả sẽ được sinh khi thực hiện file GenFaceGan.ipynb
+
